@@ -1,3 +1,7 @@
+/*
+ * Patrick O'Donnell
+ * 2018
+*/
 import java.util.Scanner;
 
 /**
